@@ -1,1 +1,0 @@
-c:\nodejs\node app.js

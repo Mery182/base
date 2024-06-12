@@ -1,1 +1,2 @@
-<img width="1574" alt="Снимок экрана 2024-06-12 в 12 59 33" src="https://github.com/Mery182/base/assets/58829464/d537b384-af9e-4f34-9937-140a4d893708">
+
+<img width="1574" alt="Снимок экрана 2024-06-12 в 13 16 37" src="https://github.com/Mery182/base/assets/58829464/912da67e-c332-4a8b-bf71-ab347ab642f9">
